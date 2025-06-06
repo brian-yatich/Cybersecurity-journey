@@ -3,7 +3,7 @@ Welcome to my cybersecurity journey! This repository documents my step by step l
 
 ## Sections 
 
---['Networking'](./Common-protocols.md): Notes and concepts on how the internet and networks work.
+--['Networking'](./Networking): Notes and concepts on how the internet and networks work.
 
 
 
